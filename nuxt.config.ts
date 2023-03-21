@@ -15,8 +15,7 @@ export default defineNuxtConfig({
     ]
   },
   modules: [
-    '@nuxtjs/tailwindcss',
-    '@nuxtjs/sentry'
+    '@nuxtjs/tailwindcss'
   ],
   buildModules: [
     '@nuxtjs/pwa'
